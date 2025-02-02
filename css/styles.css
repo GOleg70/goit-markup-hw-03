@@ -125,6 +125,9 @@ span.logo {
 
   display: block;
   margin: 48px auto 0;
+  min-width: 169px;
+  height: 56px;
+  border: none;
 }
 
 .button:hover,
@@ -160,6 +163,7 @@ span.logo {
 }
 .sec-two {
   display: flex;
+  padding: 120px 0 120px;
 }
 .div-list-sec-two {
   display: block;
@@ -212,7 +216,7 @@ span.logo {
 }
 .sec-three-ul {
   display: flex;
-  margin: 0 auto 120px;
+  /* margin: 0 auto 120px; */
   gap: 24px;
   text-align: center;
   /* background-color: #ffffff; */
