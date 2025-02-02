@@ -12,6 +12,9 @@ body {
   color: #434455;
   background: #ffffff;
 }
+img {
+  display: block;
+}
 a {
   text-decoration: none;
 }
@@ -21,7 +24,7 @@ ul {
   padding: 0;
 }
 .container {
-  max-width: 1158;
+  width: 1158;
   padding: 0 15px;
   margin: 0 auto;
 }
@@ -121,7 +124,7 @@ span.logo {
   opacity: 0px;
 
   display: block;
-  margin: 48px auto 188px;
+  margin: 48px auto 0;
 }
 
 .button:hover,
@@ -134,6 +137,7 @@ span.logo {
 .firstsec {
   background: #2e2f42;
   display: flex;
+  padding: 188px 0 188px;
 }
 .firstsec-h-one {
   color: #ffffff;
@@ -143,8 +147,7 @@ span.logo {
   font-weight: 700;
   line-height: 1.07;
   letter-spacing: 0.02em;
-  width: 496px;
-  padding-top: 188px;
+  max-width: 496px;
 }
 .div-text {
   box-sizing: border-box;
