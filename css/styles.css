@@ -7,9 +7,6 @@ h6,
 p {
   margin: 0;
 }
-img {
-  display: block;
-}
 body {
   font-family: Roboto, sans-serif;
   color: #434455;
@@ -24,7 +21,7 @@ ul {
   padding: 0;
 }
 .container {
-  width: 1158;
+  max-width: 1158;
   padding: 0 15px;
   margin: 0 auto;
 }
@@ -298,6 +295,7 @@ span.logo-footer {
   width: 1128px;
 }
 .qqqqqq {
+  box-sizing: content-box;
   width: 264px;
   padding-top: 100px;
   padding-right: auto;
