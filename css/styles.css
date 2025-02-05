@@ -166,11 +166,7 @@ span.logo {
   padding: 120px 0 120px;
 }
 .visually-hidden {
-  position: absolute;
-  clip: rect(0 0 0 0);
-  width: 1px;
-  height: 1px;
-  margin: -1px;
+  visibility: hidden;
 }
 .div-list-sec-two {
   display: block;
@@ -183,6 +179,7 @@ span.logo {
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  margin-bottom: 8px;
 }
 .section-two-p {
   font-family: Roboto;
@@ -190,7 +187,6 @@ span.logo {
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  padding-top: 8px;
 }
 
 .sec-three {
