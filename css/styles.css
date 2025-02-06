@@ -246,16 +246,18 @@ span.logo {
 }
 .sec-four {
   display: flex;
+  padding-top: 120px;
+  padding-bottom: 120px;
 }
 .sec-four-global-div {
   align-items: center;
 }
 .div-sec-four-one {
-  width: 360;
-  margin-bottom: 48px;
+  /* width: 360;
+  margin-bottom: 48px; */
 }
 .div-sec-four-two {
-  margin-bottom: 120px;
+  /* margin-bottom: 120px; */
 }
 .div-four-ul {
   display: flex;
