@@ -269,8 +269,12 @@ span.logo {
   /* text-align: center; */
 }
 .sec-four-list-one {
-  border: 1px solid #e7e9fc;
+  /* border: 1px solid #e7e9fc; */
   width: calc((100% - 48px) / 3);
+}
+.sec-four-h-plus-p {
+  padding: 32px 16px;
+  border: 1px solid #e7e9fc;
 }
 .sec-four-p {
   /* margin-top: 8px;
@@ -279,7 +283,6 @@ span.logo {
   margin-right: auto; */
 }
 .sec-four-h3 {
-  margin-top: 32px;
 }
 .fourimg {
   display: block;
