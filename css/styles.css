@@ -250,7 +250,7 @@ span.logo {
   padding-bottom: 120px;
 }
 .sec-four-global-div {
-  align-items: center;
+  /* align-items: center; */
 }
 .div-sec-four-one {
   /* width: 360;
@@ -261,21 +261,24 @@ span.logo {
 }
 .div-four-ul {
   display: flex;
-  gap: 24px;
+  /* gap: 24px; */
   flex-wrap: wrap;
+  padding: 32px 16px;
   /* text-align: center; */
 }
 .sec-four-list-one {
+  border: 1px solid #e7e9fc;
 }
 .sec-four-p {
-  margin-top: 8px;
+  /* margin-top: 8px;
   margin-bottom: 32px;
   margin-left: 0;
-  margin-right: auto;
+  margin-right: auto; */
 }
 .sec-four-h3 {
-  margin-top: 32px;
+  /* margin-top: 32px; */
 }
+
 .footer-p {
   font-family: Roboto;
   font-size: 16px;
