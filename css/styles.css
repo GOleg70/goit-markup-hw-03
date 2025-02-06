@@ -262,6 +262,7 @@ span.logo {
 .div-four-ul {
   display: flex;
   gap: 24px;
+  flex-wrap: wrap;
   /* text-align: center; */
 }
 .sec-four-list-one {
