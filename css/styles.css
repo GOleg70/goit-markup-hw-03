@@ -275,6 +275,7 @@ span.logo {
 .sec-four-h-plus-p {
   padding: 32px 16px;
   border: 1px solid #e7e9fc;
+  border-top: none;
 }
 .sec-four-p {
   /* margin-top: 8px;
