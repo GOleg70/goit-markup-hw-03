@@ -212,9 +212,9 @@ span.logo {
   margin: 0 auto 0;
   width: 232px;
   padding-top: 32px;
-  padding-right: 16px;
+  /* padding-right: 16px; */
   padding-bottom: 32px;
-  padding-left: 16px;
+  /* padding-left: 16px; */
 }
 .sec-three-ul {
   display: flex;
@@ -231,6 +231,7 @@ span.logo {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  border-radius: 0px 0px 4px 4px;
 }
 
 .section-three-p {
